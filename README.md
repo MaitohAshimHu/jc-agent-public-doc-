@@ -142,7 +142,7 @@ Designed for Omarchy and Arch Linux terminal aesthetics:
 
 ## 🏁 Quickstart
 
-### 📦 Build & Run(CONTACT FOR AUTHORISATION!)
+### 📦 Build & Run(CONTACT FOR ACCESS!)
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/jc-agent.git
